@@ -117,5 +117,3 @@ document.addEventListener("keydown", e => {
     $("#certificatePreview").innerHTML = "";
   }
 });
-
-
