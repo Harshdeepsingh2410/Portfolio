@@ -119,18 +119,3 @@ document.addEventListener("keydown", e => {
 });
 
 
-// Reliable external link handling for deployed portfolio buttons.
-document.addEventListener("click", function (event) {
-  const link = event.target.closest('a[href]');
-  if (!link) return;
-
-  const destinations = [
-    "https://harshdeepsingh2410.github.io/responsive-web-calculator/",
-    "https://harshdeepsingh2410.github.io/memory-card-game/",
-    "https://drive.google.com/file/d/1wAvQ_Nea9vQt35VZ7qE8B1fJMFlDgyRN/view?usp=drive_link"
-  ];
-
-  if (destinations.includes(link.href)) {
-    event.stopPropagation();
-  }
-}, true);
