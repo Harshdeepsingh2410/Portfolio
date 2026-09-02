@@ -19,3 +19,10 @@ Open `index.html` in a browser.
 
 ## Deploy on GitHub Pages
 Upload the extracted files to your GitHub repository and enable GitHub Pages.
+
+
+## Latest Link Updates
+
+- Calculator live project: https://harshdeepsingh2410.github.io/responsive-web-calculator/
+- Memory Card Matching Game live project: https://harshdeepsingh2410.github.io/memory-card-game/
+- Python Essentials 1 certificate: https://drive.google.com/file/d/1wAvQ_Nea9vQt35VZ7qE8B1fJMFlDgyRN/view?usp=drive_link
